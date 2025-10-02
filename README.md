@@ -1,31 +1,20 @@
 # NBA Player Career Longevity – Feature Engineering
 
 ## Table of Contents
-[Overview](overview) 
-
-[Objectives](objectives)
-
-[Dataset](dataset)
-
-[Data Dictionary](data_dictionary) 
-
-[Key Steps in the Analysis](key_steps_in_nalysis)
-
-[1. Imports and Data Loading](imports_and_data_loading)
-
-[2. Data Exploration](data_exploration)
-
-[3. Feature Selection](feature_selection)
-
-[4. Feature Transformation](feature_transformation)
-
-[5. Feature Extraction](feature_extraction)
-
-[6. Cleaning for Modelling](cleaning_for_modelling)
-
-[7. Exporting Data](exporting_data)
-
-[Results and Insights](result_and_insights)
+## Table of Contents
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Dataset](#dataset)
+- [Data Dictionary](#data-dictionary)
+- [Key Steps in the Analysis](#key-steps-in-the-analysis)
+  - [1. Imports and Data Loading](#1-imports-and-data-loading)
+  - [2. Data Exploration](#2-data-exploration)
+  - [3. Feature Selection](#3-feature-selection)
+  - [4. Feature Transformation](#4-feature-transformation)
+  - [5. Feature Extraction](#5-feature-extraction)
+  - [6. Cleaning for Modelling](#6-cleaning-for-modelling)
+  - [7. Exporting Data](#7-exporting-data)
+- [Results and Insights](#results-and-insights)
 ## Overview
 
 This project is part of the Google Advanced Data Analytics course on Coursera. The task was to perform feature engineering on an NBA player dataset to identify which performance metrics can help predict whether a player’s career will last at least five years in the NBA.
