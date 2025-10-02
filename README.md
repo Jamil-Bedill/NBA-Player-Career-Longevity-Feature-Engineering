@@ -1,7 +1,6 @@
 # NBA Player Career Longevity – Feature Engineering
 
 ## Table of Contents
-## Table of Contents
 - [Overview](#overview)
 - [Objectives](#objectives)
 - [Dataset](#dataset)
